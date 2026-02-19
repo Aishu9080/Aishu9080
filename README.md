@@ -36,7 +36,7 @@
 ### 🧠 SkillRack Stats
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; width:80%;">
-  <h2 style="color:white;">Aishwarya9080</h2>
+  <h2 style="color:white;">AISHWARYA K - 2317059 (NEC)</h2>
   <p style="color:white;">Problems Solved: 1888</p>
   <p style="color:#00ff00;">C: 810</p>
   <p style="color:#f1c40f;">Python: 377</p>
