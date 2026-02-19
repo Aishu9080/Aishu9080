@@ -16,11 +16,7 @@
 
 ### 🌐 Social Presence
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aishwarya-k-66788b2aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aishu9080&theme=react-dark)](https://github.com/)
 
 ---
 
