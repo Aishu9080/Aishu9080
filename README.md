@@ -34,6 +34,14 @@
 
 ---
 
+### 🧠 SkillRack Stats
+
+![SkillRack](https://img.shields.io/badge/SkillRack-Aishwarya%20K-blue?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems-XXX-success?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-XXX-important?style=for-the-badge)
+
+---
+
 ### 🔥 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aishwarya9080?theme=dark&font=changa&ext=heatmap)
 
