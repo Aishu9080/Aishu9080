@@ -15,8 +15,11 @@
 ---
 
 ### 🌐 Social Presence
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aishu9080&theme=react-dark)](https://github.com/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aishwarya-k-66788b2aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -32,9 +35,16 @@
 
 ### 🧠 SkillRack Stats
 
-![SkillRack](https://img.shields.io/badge/SkillRack-Aishwarya%20K-blue?style=for-the-badge)
-![Problems Solved](https://img.shields.io/badge/Problems-XXX-success?style=for-the-badge)
-![Rank](https://img.shields.io/badge/Rank-XXX-important?style=for-the-badge)
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; width:80%;">
+  <h2 style="color:white;">Aishwarya9080</h2>
+  <p style="color:white;">Problems Solved: 1888</p>
+  <p style="color:#00ff00;">C: 810</p>
+  <p style="color:#f1c40f;">Python: 377</p>
+  <p style="color:#e74c3c;">Java: 351</p>
+  <p style="color:#3498db;">Rank: #3760</p>
+  <p style="color🏅;">Bronze: 1087</p>
+</div>
+
 
 ---
 
